@@ -3,7 +3,7 @@ import Counter from './components/Counter';
 
 function App() {
   return (
-    <div>
+    <div className='App'>
       <h1>React Redux Counter App</h1>
       <Counter/>
     </div>
